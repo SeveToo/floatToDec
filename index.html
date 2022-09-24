@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyTheme</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="App">
+      <h1 class="App__header">Zamiana FLOAT na DECIMAL</h1>
+      <section class="section__input">
+        <label class="input" for="ALL">
+          <input class="input__field" type="text" name="" id="ALL" />
+          <span class="input__label">znak cecha mantysa</span>
+        </label>
+        <label class="input signLabel" for="sign">
+          <input disabled class="input__field" type="text" name="" id="sign" />
+          <span class="input__label">znak</span>
+        </label>
+        <label class="input" for="fraction">
+          <input class="input__field" type="text" id="fraction" />
+          <span class="input__label">cecha</span>
+        </label>
+        <label class="input" for="mantysa">
+          <input class="input__field" type="text" id="mantysa" />
+          <span class="input__label">mantysa</span>
+        </label>
+        <button class="input__button">Sprawdz</button>
+      </section>
+      <div class="results">
+        <div class="steps"></div>
+        <div class="answer"></div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
