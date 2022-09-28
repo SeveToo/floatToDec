@@ -1,13 +1,13 @@
 <div align="center" id="top"> 
   
 <h1 align="center">Float to Decimal calculator</h1>
-  <a target="_blank" href="https://sevetoo.github.io/floattodec">
+  <a target="_blank" href="https://sevetoo.github.io/floatToDec/">
   <img src="./preview.png" alt="arrays functions" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/floattodec">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/floatToDec/">Demo</a>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## :dart: About
 
-This is a simple calculator that converts a float number to a decimal number.
+This is a simple calculator that converts a float number to a decimal number.,
 You can use colors to understand the process.
 
 <!-- ## :sparkles: Features
@@ -52,12 +52,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/floattodec
+https://sevetoo.github.io/floatToDec/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/floattodec" >click link</a> ) 
+or open in browser ( <a href="https://sevetoo.github.io/floatToDec/" >click link</a> ) 
 
 ## 😎 Made by
 
